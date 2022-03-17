@@ -42,7 +42,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/hero"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
@@ -52,7 +52,7 @@
         app:srcCompat="@drawable/hero" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/slime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="335dp"
@@ -186,6 +186,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
+
 
     //sword skills: slash, thrust, double strike
 
