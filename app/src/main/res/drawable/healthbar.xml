@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android%22%3E
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:id="@android:id/background">
-<shape android:shape="rectangle">
-<corners android:radius="9dp"/>
-<solid android:color="@color/rainbow1"/>
-</shape>
+        <shape android:shape="rectangle">
+            <corners android:radius="9dp"/>
+            <solid android:color="@color/lime_green"/>
+        </shape>
     </item>
 
-<item android:id="@android:id/progress">
-<scale android:scaleWidth="100%">
-    <shape android:shape="rectangle">
-        <corners android:radius="9dp"/>
-        <solid android:color="#41B869"/>
-    </shape>
-</scale>
+    <item android:id="@android:id/progress">
+        <scale android:scaleWidth="100%">
+            <shape android:shape="rectangle">
+                <corners android:radius="9dp"/>
+                <solid android:color="#41B869"/>
+            </shape>
+        </scale>
 
-</item>
+    </item>
 
-    </layer-list>
+</layer-list>

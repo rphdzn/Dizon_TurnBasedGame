@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dizon_TurnBasedGame</string>
+    <string name="hero">HERO</string>
 </resources>
